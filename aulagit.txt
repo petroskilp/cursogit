@@ -4,3 +4,4 @@ Modificando
 Adicionando uma nova linha
 
 adicinando uma linha para gerar um conflito
+Uma modificação diferente
